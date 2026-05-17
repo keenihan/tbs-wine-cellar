@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="40" fill="#4A1628"/>
+  <text x="96" y="80" font-family="Georgia,serif" font-size="60" fill="#C4943A" text-anchor="middle" font-weight="bold">TBS</text>
+  <text x="96" y="118" font-family="Georgia,serif" font-size="22" fill="#E8A0AF" text-anchor="middle">Wine Cellar</text>
+  <rect x="60" y="130" width="72" height="4" rx="2" fill="#C4943A" opacity="0.5"/>
+  <ellipse cx="96" cy="155" rx="28" ry="8" fill="#C4943A" opacity="0.3"/>
+</svg>

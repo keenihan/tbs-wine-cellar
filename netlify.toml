@@ -1,0 +1,41 @@
+{
+  "name": "TBS Wine Cellar",
+  "short_name": "TBS Cellar",
+  "description": "Your personal wine cellar management app",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#F9F3EE",
+  "theme_color": "#4A1628",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "food"],
+  "shortcuts": [
+    {
+      "name": "Add Wine",
+      "short_name": "Add",
+      "description": "Add a new wine to your cellar",
+      "url": "/index.html?action=add",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Scan Barcode",
+      "short_name": "Scan",
+      "description": "Scan a wine bottle barcode",
+      "url": "/index.html?action=scan",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
